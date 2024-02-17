@@ -1,10 +1,10 @@
 Proposal: Financial Market Dynamics in Saudi Arabia
 
-3. Project Title: "Market Pulse: Analyzing Trends and Patterns in the Saudi Stock Exchange"
+Project Title: "Market Pulse: Analyzing Trends and Patterns in the Saudi Stock Exchange"
 
-4. Project Domain: Financial Analysis and Econometrics
+Project Domain: Financial Analysis and Econometrics
 
-5. Short Problem Description: This project aims to conduct a comprehensive analysis of stock
+Short Problem Description: This project aims to conduct a comprehensive analysis of stock
 market trends in the Saudi Stock Exchange (Tadawul) since 2000. Using the dataset that
 includes daily stock prices, trade volumes, and other relevant metrics, the project will delve
 into various aspects of financial market dynamics.
